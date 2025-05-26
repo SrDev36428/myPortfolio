@@ -1,0 +1,314 @@
+{
+    "name": "Bohdan Borodulin",
+    "logo_name": "BOHDAN-BORODULIN",
+    "role": "Full Stack Engineer",
+    "about": {
+        "sections": {
+            "Personal Info": {
+                "title": "Personal Info",
+                "icon": "icons/info-personal.svg",
+                "info": {
+                    "Overview": {
+                        "title": "Overview",
+                        "description": "<br> About me <br> I have 8+ years of experience in modeling and deploying a wide range of scalable web, mobile & desktop applications and robust backend systems. <br> I am proficient in a variety of programming languages and tools such as C++. JavaScript, Python, PHP, Rust, Node.js, React, AngularJS, ExpressJS, Laravel and Django. <br> I always pride myself on my ability to translate business requirements into technical solutions, ensuring seamless integration and exceptional user experience. <br> I adept at leading teams, mentoring junior developers, and collaborating with cross-functional teams to drive project success. <br> I am eager to contribute technical expertise and innovative problem-solving skills to advance software development initiatives."
+                    },
+                    "Interests": {
+                        "title": "Interests",
+                        "description": "<br>I'm constantly learning and evolving as a developer - always exploring new technologies, refining my skills, and staying curious. <br>- AI & Machine Learning: <br> Passionate about integrating and fine-tuning AI models, especially OpenAI and natural language processing solutions. <br>- Open Source Contribution:<br> Enjoy contributing to and exploring open-source projects across multiple languages like Rust, Python, and JavaScript. <br>- Modern Web Frameworks: <br>Interested in experimenting with modern frontend ecosystems such as Nuxt, Next.js, Vue, and Tailwind CSS.<br>- Performance Optimization:<br> Enthusiastic about improving application performance through smart architectural decisions, microservices, and background processing (e.g., Laravel Queues).<br> - Automation & Scripting: <br>Strong interest in automating tasks using Python, browser automation (Selenium, Puppeteer), and building ETL pipelines.<br>- Cloud Infrastructure & DevOps:<br> Eager to explore efficient CI/CD, containerization (Docker), and scalable deployment using AWS/Heroku."
+                    },
+                    "Education": {
+                        "title": "Education",
+                        "description": "<br>- Kyiv National University of Technologies and Design<br><br>I have earned Bachelor's degree in Computer Science, where I built a solid foundation in software development, algorithms, and system design. <br> During my studies, I focused on both theoretical principles and practical skills, exploring everything from data structures and databases to web development and AI fundamentals. <br> This academic experience helped me transition smoothly into real-world software engineering and kickstarted my passion for full-stack development.",
+                        "files": {}
+                    }
+                }
+            },
+            "Professional Info": {
+                "title": "Professional Info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "Experience": {
+                        "title": "Experience",
+                        "description": "<br>Over the past 8+ years, I've built a diverse and impactful career as a software engineer, working across startups and established companies in both frontend and backend roles.<br> - I’ve led engineering teams, architected scalable applications, and delivered high-performance systems used by thousands. <br>- At KeyUA company, I led the development of scalable web apps, optimized microservices architecture, and contributed to business growth through customized software demos that significantly boosted closing rates. <br>- During my time at DataScan company, I focused on backend optimization, API design, and Laravel-based performance improvements.<br> - I reduced server response times and enhanced the user experience with smarter data handling and lazy loading strategies. <br>- At TechMagic company, I specialized in frontend development using React, Next.js, and Vue.js. I transformed UI designs into fully responsive, accessible, and high-performing applications, while also contributing to reusable component systems. <br>- Earlier in my career, I built AI-powered applications and backend systems at Nannostomus and Binary Studio, leveraging Python, Rust, Docker, and various ML tools. <br>- I automated data workflows, integrated third-party APIs, and deployed full-stack solutions to production environments using CI/CD pipelines.<br> - Each role strengthened my expertise in full-stack development, system design, DevOps, and team collaboration, equipping me with the versatility to contribute across all layers of modern software engineering."
+                    },
+                    "Hard Skills": {
+                        "title": "Hard Skills",
+                        "description": "<br>These are the technical abilities I've built over years of hands-on experience in full-stack development, system architecture, and AI integration: <br> - Languages & Frameworks: JavaScript (ES6+), TypeScript, Python, PHP, C#, Rust, HTML5, CSS3, Tailwind CSS, Bootstrap, Sass, jQuery <br> - Frontend: React, Next.js, Vue.js, Nuxt.js, AngularJS, Svelte, Redux, Pinia <br> - Backend: Node.js, ExpressJS, Laravel, Django, Flask <br> - Databases: MySQL, PostgreSQL, MongoDB, MS SQL <br> - DevOps & Tools: Docker, GitHub Actions, Heroku, AWS, CI/CD pipelines <br> - APIs & Integrations: RESTful APIs, Stripe, Twilio, Web Scraping (Scrapy, Puppeteer, Selenium) <br> - AI & Data Processing: Machine Learning basics, OpenAI, Model Integration, Finetunning, Faceswap, Whisper API, Text-to-Speech, ETL pipelines, data visualization, automation scripts <br> - Application Development: Electron, C#, Rust, Python, React-Native, Flutter"
+                    },
+                    "Soft Skills": {
+                        "title": "Soft Skills",
+                        "description": "<br>I bring the personal and collaborative traits that help me succeed in team environments and deliver value beyond just code: <br> - Problem-Solving: I take pride in identifying core issues and delivering creative, effective solutions under pressure.<br> - Team Collaboration: Comfortable working cross-functionally with designers, PMs, and other engineers to align goals and timelines.<br> - Leadership & Mentoring: Experience leading backend teams and mentoring junior developers to build high-performing teams.<br> - Communication: Clear communicator with the ability to translate complex technical ideas for non-technical stakeholders.<br> - Continuous Learning: Always staying up-to-date with new technologies, frameworks, and best practices in software development.<br> - Attention to Detail: From writing clean, maintainable code to ensuring pixel-perfect UI implementation."
+                    }
+                }
+            },
+            "Hobbies Info": {
+                "title": "Hobbies Info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "Sports": {
+                        "title": "Sports",
+                        "description": "<br>Outside of coding, I enjoy staying active and sharpening my focus through sports and gaming. These hobbies not only help me recharge but often inspire my problem-solving mindset as a developer.<br><br>I’m passionate about physical health and regularly play football (soccer), go for runs, and hit the gym. Staying active helps me maintain energy, discipline, and a clear mind for complex coding challenges."
+                    },
+                    "Favorite Games": {
+                        "title": "Favorite Games",
+                        "description": "<br>I’m a big fan of strategy and competitive games. Whether it’s classics like Chess, fast-paced rounds of Counter-Strike, or immersive RPGs, I enjoy games that challenge my thinking, reaction, and teamwork - much like software development does."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "idealdev0224@gmail.com",
+                "phone": "+380 992440548"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "SdDev0119"
+            },
+            "linkedin": {
+                "title": "linkedin profile",
+                "url": "https://linkedin.com/in/",
+                "user": "bohdan-borodulin-926b201a3/"
+            },
+            "telegram": {
+                "title": "telegram",
+                "url": "https://t.me/",
+                "user": "ideadev1223"
+            },
+            "whatsapp": {
+                "title": "whatsapp",
+                "url": "https://api.whatsapp.com/send/?phone=",
+                "user": "380992440548"
+            },
+            "signal": {
+                "title": "singnal",
+                "url": "https://signal.me/#p/",
+                "user": "+380992440548"
+            },
+            "discord": {
+                "title": "discord",
+                "url": "https://discord.gg/",
+                "user": "peZDcJ9U"
+            },
+            "teams": {
+                "title": "teams",
+                "url": "https://teams.live.com/l/invite/",
+                "user": "FBAGeSvD7HV8e0R8wc"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "github": {
+                    "title": "Github",
+                    "url": "https://github.com/",
+                    "user": "SdDev0119"
+                },
+                "linkedin": {
+                    "title": "linkedin profile",
+                    "url": "https://linkedin.com/in/",
+                    "user": "bohdan-borodulin-926b201a3/"
+                },
+                "telegram": {
+                    "title": "Telegram",
+                    "url": "https://t.me/",
+                    "user": "ideadev1223"
+                },
+                "whatsapp": {
+                    "title": "Whatsapp",
+                    "url": "https://api.whatsapp.com/send/?phone=",
+                    "user": "380992440548"
+                },
+                "signal": {
+                    "title": "Singnal",
+                    "url": "https://signal.me/#p/",
+                    "user": "+380992440548"
+                },
+                "discord": {
+                    "title": "Discord",
+                    "url": "https://discord.gg/",
+                    "user": "peZDcJ9U"
+                },
+                "teams": {
+                    "title": "Microsoft Teams",
+                    "url": "https://teams.live.com/l/invite/",
+                    "user": "FBAGeSvD7HV8e0R8wc"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "3f62cfe8560583b345f10653a57cb0e1",
+        "2": "ff2f20066cf279f46290947f1df86c48"
+    },
+    "projects": {
+        "1": {
+            "title": "TTNet-Pytorch",
+            "description": "TTNet: Real-time temporal and spatial video analysis of table tennis",
+            "img": "/images/projects/table-tennis.gif",
+            "tech": [
+                "AI"
+            ],
+            "url": "https://github.com/SdDev0119/RTAS_for_TT_PyTorch_Master"
+        },
+        "2": {
+            "title": "Businesswarrior",
+            "description": "End-to-end lending solutions for lenders increase profitability and efficiency.",
+            "img": "/images/projects/businesswarrior.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://businesswarrior.com/"
+        },
+        "3": {
+            "title": "Tetris-Game",
+            "description": "React-based implementation of the classic Tetris game.",
+            "img": "/images/projects/tetris-game.png",
+            "tech": [
+                "Web",
+                "Game"
+            ],
+            "url": "https://github.com/SdDev0119/react-tetris"
+        },
+        "4": {
+            "title": "Gaint Play",
+            "description": "Get-Paid-To (GPT) platform accessible via gaintplay.com and its Android app.",
+            "img": "/images/projects/gaintplay.png",
+            "tech": [
+                "Web",
+                "Game",
+                "App"
+            ],
+            "url": "https://gaintplay.com"
+        },
+        "5": {
+            "title": "Financial System",
+            "description": "DeFi service for a stable, interest-earning alternative to stablecoins.",
+            "img": "/images/projects/gyro.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://gyro.money/"
+        },
+        "6": {
+            "title": "Upcomers",
+            "description": "Trading firm that offers traders the opportunity to manage simulated capital.",
+            "img": "/images/projects/upcomers.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://upcomers.com/"
+        },
+        "7": {
+            "title": "3DWorld Tectera",
+            "description": "Play-and-earn web based NFT metaverse game with a full three.js built in.",
+            "img": "/images/projects/tectera.png",
+            "tech": [
+                "Web",
+                "Game"
+            ],
+            "url": "https://github.com/SdDev0119/3DWorld-Tectera-Beta"
+        },
+        "8": {
+            "title": "Document Editor",
+            "description": "Easiest to use and most versatile data processing and data view application.",
+            "img": "/images/projects/runo.png",
+            "tech": [
+                "App"
+            ],
+            "url": "https://github.com/SdDev0119/RuNo"
+        },
+        "9": {
+            "title": "Tapin",
+            "description": "Online Platform for gamers to play with high-skill teammates and coaches",
+            "img": "/images/projects/tappin.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://tapin.gg"
+        },
+        "10": {
+            "title": "RunPod",
+            "description": "Cloud computing platform that offers on-demand access to GPUs for AI and ML workloads.",
+            "img": "/images/projects/runpod.png",
+            "tech": [
+                "Web",
+                "AI"
+            ],
+            "url": "https://www.runpod.io/"
+        },
+        "11": {
+            "title": "Porker game",
+            "description": "Web-based poker game provides an interactive poker interface for player",
+            "img": "/images/projects/ethereum.png",
+            "tech": [
+                "App",
+                "Web",
+                "Game"
+            ],
+            "url": "https://github.com/SdDev0119/react_poker_maven"
+        },
+        "12": {
+            "title": "Thorchain",
+            "description": "Dex service that enables users to swap native crypto assets directly",
+            "img": "/images/projects/thorchain.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://thorchain.com"
+        },
+        "13": {
+            "title": "PDMG_SSP",
+            "description": "Suply side platform based on openrtb 2.6 for real-time bidding.",
+            "img": "/images/projects/worldmap.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://github.com/SdDev0119/pdmg_ssp"
+        },
+        "14": {
+            "title": "ComfyUI",
+            "description": "A user-friendly interface for managing ComfyUI projects with Streamlit.",
+            "img": "/images/projects/ui-animations.png",
+            "tech": [
+                "Web"
+            ],
+            "url": "https://github.com/SdDev0119/ComfyUI-Workflow-Launcher"
+        },
+        "15": {
+            "title": "Wagmi Game",
+            "description": "Web3 entertainment studio that merges mobile gaming, blockchain technology",
+            "img": "/images/projects/wagmi.png",
+            "tech": [
+                "Web",
+                "Game"
+            ],
+            "url": "https://wagmigames.com"
+        },
+        "16": {
+            "title": "Event Handling",
+            "description": "React-based lab focused on practicing event handling in React components",
+            "img": "/images/projects/ui-animations2.png",
+            "tech": [
+                "AI"
+            ],
+            "url": "https://github.com/SdDev0119/RHE-Handling-Lab"
+        },
+        "17": {
+            "title": "Pinpoint",
+            "description": "A platform designed to connect users with local mobile food vendors",
+            "img": "/images/projects/pinpoint.png",
+            "tech": [
+                "Web",
+                "App"
+            ],
+            "url": "https://thepinpointsocial.com/"
+        }
+    }
+}
