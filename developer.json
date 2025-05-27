@@ -184,7 +184,7 @@
                 "Web",
                 "Game"
             ],
-            "url": "https://github.com/SdDev0119/react-tetris"
+            "url": "https://github.com/SrDev36428/Tetris-Game"
         },
         "6": {
             "title": "Gaint Play",
@@ -223,7 +223,7 @@
                 "Web",
                 "Game"
             ],
-            "url": "https://github.com/SdDev0119/3DWorld-Tectera-Beta"
+            "url": "https://github.com/SrDev36428/3D-world-Tectera"
         },
         "10": {
             "title": "Document Editor",
@@ -232,7 +232,7 @@
             "tech": [
                 "App"
             ],
-            "url": "https://github.com/SdDev0119/RuNo"
+            "url": "https://github.com/SrDev36428/RuNo"
         },
         "11": {
             "title": "Tapin",
@@ -254,15 +254,15 @@
             "url": "https://www.runpod.io/"
         },
         "13": {
-            "title": "Porker game",
-            "description": "Web-based poker game provides an interactive poker interface for player",
-            "img": "/images/projects/ethereum.png",
+            "title": "Arcade game",
+            "description": "Chicken Arcade is a HTML5 arcade game,",
+            "img": "/images/projects/Arcade.png",
             "tech": [
                 "App",
                 "Web",
                 "Game"
             ],
-            "url": "https://github.com/SdDev0119/react_poker_maven"
+            "url": "https://github.com/SrDev36428/arcade"
         },
         "14": {
             "title": "Thorchain",
@@ -274,24 +274,6 @@
             "url": "https://thorchain.com"
         },
         "15": {
-            "title": "PDMG_SSP",
-            "description": "Suply side platform based on openrtb 2.6 for real-time bidding.",
-            "img": "/images/projects/worldmap.png",
-            "tech": [
-                "Web"
-            ],
-            "url": "https://github.com/SdDev0119/pdmg_ssp"
-        },
-        "16": {
-            "title": "ComfyUI",
-            "description": "A user-friendly interface for managing ComfyUI projects with Streamlit.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": [
-                "Web"
-            ],
-            "url": "https://github.com/SdDev0119/ComfyUI-Workflow-Launcher"
-        },
-        "17": {
             "title": "Wagmi Game",
             "description": "Web3 entertainment studio that merges mobile gaming, blockchain technology",
             "img": "/images/projects/wagmi.png",
@@ -300,15 +282,6 @@
                 "Game"
             ],
             "url": "https://wagmigames.com"
-        },
-        "18": {
-            "title": "Event Handling",
-            "description": "React-based lab focused on practicing event handling in React components",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": [
-                "AI"
-            ],
-            "url": "https://github.com/SdDev0119/RHE-Handling-Lab"
-        }
+        }       
     }
 }
