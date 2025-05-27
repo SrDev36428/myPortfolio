@@ -9,13 +9,13 @@
         Find me in:
       </span>
       <div id="social-icons" class="flex">
-        <!-- <NuxtLink
+        <NuxtLink
           :to="social.linkedin.url + social.linkedin.user"
           target="_blank"
           class="flex justify-center items-center"
         >
           <img src="/icons/social/linkedin.png" alt="linkedin" />
-        </NuxtLink> -->
+        </NuxtLink>
         <NuxtLink
           :to="social.telegram.url + social.telegram.user"
           target="_blank"

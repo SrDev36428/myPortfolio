@@ -34,7 +34,7 @@
       </div>
       
       <div class="profile-photo">
-        <img src="/images/me.jpg" alt="Profile Photo" />
+        <img id="my-photo" src="/images/me.jpg" alt="Profile Photo" />
       </div>
     </section>
 
