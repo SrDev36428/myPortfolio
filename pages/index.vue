@@ -84,7 +84,6 @@ function handleResize() {
   width: 100%;
   display: flex;
   align-items: center;
-  gap: 2rem;
 }
 .game {
   display: flex;
@@ -351,6 +350,10 @@ function handleResize() {
   #hello .head h1 {
     font-size: 62px;
   }
+}
+
+.hero-content {
+  justify-content: center;
 }
 
 .profile-photo {
