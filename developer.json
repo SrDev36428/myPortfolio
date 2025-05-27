@@ -71,6 +71,11 @@
                 "url": "https://github.com/",
                 "user": "SrDev36428"
             },
+            "linkedin": {
+                "title": "linkedin profile",
+                "url": "https://linkedin.com/in/",
+                "user": "bohdan-borodulin-926b201a3/"
+            },
             "telegram": {
                 "title": "telegram",
                 "url": "https://t.me/",
@@ -104,6 +109,11 @@
                     "title": "Github",
                     "url": "https://github.com/",
                     "user": "SrDev36428"
+                },
+                "linkedin": {
+                    "title": "linkedin profile",
+                    "url": "https://linkedin.com/in/",
+                    "user": "#"
                 },
                 "telegram": {
                     "title": "Telegram",
@@ -155,7 +165,7 @@
                 "Web"
             ],
             "url": "https://businesswarrior.com/"
-        }, 
+        },
         "3": {
             "title": "Pinpoint",
             "description": "A platform designed to connect users with local mobile food vendors React for Frontend, Django for Backend",
