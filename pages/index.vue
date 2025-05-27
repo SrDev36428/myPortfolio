@@ -5,30 +5,36 @@
     <div class="css-blurry-gradient-green"></div>
 
     <section class="hero">
-      <div class="head">
-        <h2 style="color: white">Welcome👋, I am</h2>
-        <h1>{{ config.name }}</h1>
-        <span class="diple flex">
-          >&nbsp;
-          <h2 class="line-1 anim-typewriter max-w-fit">{{ config.role }}</h2>
-        </span>
-      </div>
+      <div class="hero-content">
+        <div class="head">
+          <h2 style="color: white">Welcome👋, I am</h2>
+          <h1>{{ config.name }}</h1>
+          <span class="diple flex">
+            >&nbsp;
+            <h2 class="line-1 anim-typewriter max-w-fit">{{ config.role }}</h2>
+          </span>
+        </div>
 
-      <div id="info">
-        <span class="action"> - Play the game to continue </span>
-        <span :class="{ hide: isMobile }"> - Please visit my GitHub profile </span>
-        <span :class="{ hide: !isMobile }"> - Find my profile on Github: </span>
-        <p class="code">
-          <span class="identifier"> const </span>
-          <span class="variable-name"> githubLink </span>
-          <span class="operator"> = </span>
-          <a
-            class="string"
-            :href="'https://github.com/' + config.contacts.social.github.user"
-          >
-            "https://github.com/{{ config.contacts.social.github.user }}"
-          </a>
-        </p>
+        <div id="info">
+          <span class="action"> - Play the game to continue </span>
+          <span :class="{ hide: isMobile }"> - Please visit my GitHub profile </span>
+          <span :class="{ hide: !isMobile }"> - Find my profile on Github: </span>
+          <p class="code">
+            <span class="identifier"> const </span>
+            <span class="variable-name"> githubLink </span>
+            <span class="operator"> = </span>
+            <a
+              class="string"
+              :href="'https://github.com/' + config.contacts.social.github.user"
+            >
+              "https://github.com/{{ config.contacts.social.github.user }}"
+            </a>
+          </p>
+        </div>
+      </div>
+      
+      <div class="profile-photo">
+        <img src="/image/me.jpg" alt="Profile Photo" />
       </div>
     </section>
 
@@ -76,7 +82,10 @@ function handleResize() {
 }
 .hero {
   width: 100%;
-  justify-content: center;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 .game {
   display: flex;
@@ -251,11 +260,12 @@ function handleResize() {
   }
 
   #hello .hero {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin: 1.75rem; /* 28px */
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    margin: 1rem;
   }
+
   .head {
     padding-top: 4rem; /* 40px */
   }
@@ -269,6 +279,13 @@ function handleResize() {
   #info .action {
     display: none;
   }
+
+  .profile-photo {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 2rem;
+    border-width: 3px;
+  }
 }
 
 /* tablet */
@@ -277,13 +294,20 @@ function handleResize() {
     padding-left: 0;
   }
   #hello .hero {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
     margin: 1.75rem; /* 28px */
   }
   .head {
     padding-top: 4rem; /* 40px */
+  }
+
+  .profile-photo {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 2rem;
+    border-width: 3px;
   }
 }
 
@@ -327,5 +351,31 @@ function handleResize() {
   #hello .head h1 {
     font-size: 62px;
   }
+}
+
+.hero-content {
+  flex: 1;
+}
+
+.profile-photo {
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  border: 4px solid rgba(77, 91, 206, 0.3);
+  transition: all 0.3s ease;
+}
+
+.profile-photo:hover {
+  border-color: rgba(77, 91, 206, 0.6);
+  transform: scale(1.02);
+}
+
+.profile-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 </style>
