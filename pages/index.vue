@@ -83,10 +83,8 @@ function handleResize() {
 .hero {
   width: 100%;
   display: flex;
-  flex-direction: column;
   align-items: center;
   gap: 2rem;
-  padding-top: 2rem;
 }
 .game {
   display: flex;
@@ -284,12 +282,8 @@ function handleResize() {
   .profile-photo {
     width: 200px;
     height: 200px;
-    margin-top: 0.5rem;
+    margin-bottom: 2rem;
     border-width: 3px;
-  }
-
-  .hero {
-    padding-top: 1rem;
   }
 }
 
@@ -304,6 +298,7 @@ function handleResize() {
     text-align: center;
     margin: 1.75rem; /* 28px */
   }
+
   .head {
     padding-top: 4rem; /* 40px */
   }
@@ -311,12 +306,8 @@ function handleResize() {
   .profile-photo {
     width: 250px;
     height: 250px;
-    margin-top: 0.5rem;
+    margin-bottom: 2rem;
     border-width: 3px;
-  }
-
-  .hero {
-    padding-top: 1rem;
   }
 }
 
@@ -363,11 +354,7 @@ function handleResize() {
 }
 
 .hero-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  width: 100%;
+  flex: 1;
 }
 
 .profile-photo {
@@ -379,7 +366,6 @@ function handleResize() {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   border: 4px solid rgba(77, 91, 206, 0.3);
   transition: all 0.3s ease;
-  margin-top: 1rem;
 }
 
 .profile-photo:hover {
