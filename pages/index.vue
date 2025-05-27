@@ -353,10 +353,6 @@ function handleResize() {
   }
 }
 
-.hero-content {
-  flex: 1;
-}
-
 .profile-photo {
   flex-shrink: 0;
   width: 300px;
