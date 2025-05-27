@@ -352,7 +352,7 @@ function handleResize() {
   }
 }
 
-.hero-content {
+.hero {
   justify-content: center;
 }
 
