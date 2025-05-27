@@ -30,13 +30,13 @@
         >
           <img src="/icons/social/WhatsApp.svg" alt="whatsapp" />
         </NuxtLink>
-        <NuxtLink
+        <!-- <NuxtLink
           :to="social.signal.url + social.signal.user"
           target="_blank"
           class="flex justify-center items-center"
         >
           <img src="/icons/social/Signal.svg" alt="signal" />
-        </NuxtLink>
+        </NuxtLink> -->
         <NuxtLink
           :to="social.discord.url + social.discord.user"
           target="_blank"

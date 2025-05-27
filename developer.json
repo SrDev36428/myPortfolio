@@ -80,12 +80,7 @@
                 "title": "whatsapp",
                 "url": "https://api.whatsapp.com/send/?phone=",
                 "user": "380992440548"
-            },
-            "signal": {
-                "title": "singnal",
-                "url": "https://signal.me/#p/",
-                "user": "+380992440548"
-            },
+            },           
             "discord": {
                 "title": "discord",
                 "url": "https://discord.gg/",
@@ -114,12 +109,7 @@
                     "title": "Whatsapp",
                     "url": "https://api.whatsapp.com/send/?phone=",
                     "user": "380992440548"
-                },
-                "signal": {
-                    "title": "Singnal",
-                    "url": "https://signal.me/#p/",
-                    "user": "+380992440548"
-                },
+                },                
                 "discord": {
                     "title": "Discord",
                     "url": "https://discord.gg/",
