@@ -61,7 +61,7 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "devsworld36428@gmail.com",
+                "email": "bohdanlebedivskyi@gmail.com",
                 "phone": "+380 992440548"
             }
         },
@@ -74,7 +74,7 @@
             "telegram": {
                 "title": "telegram",
                 "url": "https://t.me/",
-                "user": "SrDev36428"
+                "user": "astrofleck36428"
             },
             "whatsapp": {
                 "title": "whatsapp",
@@ -84,12 +84,12 @@
             "discord": {
                 "title": "discord",
                 "url": "https://discord.gg/",
-                "user": "Ze2AsdyR"
+                "user": "fuJ3b72H"
             },
             "teams": {
                 "title": "teams",
                 "url": "https://teams.live.com/l/invite/",
-                "user": "FBA42L4RrvaWDx8Lgk"
+                "user": "FBA8ODOBt6PodddmQE"
             }
         },
         "find_me_also_in": {
@@ -103,7 +103,7 @@
                 "telegram": {
                     "title": "Telegram",
                     "url": "https://t.me/",
-                    "user": "SrDev36428"
+                    "user": "astrofleck36428"
                 },
                 "whatsapp": {
                     "title": "Whatsapp",
@@ -113,12 +113,12 @@
                 "discord": {
                     "title": "Discord",
                     "url": "https://discord.gg/",
-                    "user": "Ze2AsdyR"
+                    "user": "fuJ3b72H"
                 },
                 "teams": {
                     "title": "Microsoft Teams",
                     "url": "https://teams.live.com/l/invite/",
-                    "user": "FBAGeSvD7HV8e0R8wc"
+                    "user": "FBA8ODOBt6PodddmQE"
                 }
             }
         }

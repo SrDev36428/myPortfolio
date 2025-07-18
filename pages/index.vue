@@ -32,10 +32,6 @@
           </p>
         </div>
       </div>
-      
-      <div class="profile-photo">
-        <img id="my-photo" :src="'/images/me.jpg'" alt="Profile Photo" >
-      </div>
     </section>
 
     <section data-aos="fade-up" class="game" v-if="!isMobile">
